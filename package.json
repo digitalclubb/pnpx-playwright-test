@@ -1,0 +1,18 @@
+{
+  "name": "pnpx-playwright-test",
+  "version": "1.0.0",
+  "description": "Issue using playwright-test with pnpx",
+  "main": "index.js",
+  "scripts": {
+    "test": "pnpx folio --config=config.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalclubb/pnpx-playwright-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^0.1101.0"
+  }
+}
