@@ -29,7 +29,7 @@ folio --config=config.ts
 Results in the same error:
 > error: unknown option '--config=config.ts'
 
-## npmx
+## npx
 
 `playright-test` with `folio` only seems to work when `npx` is used:
 
